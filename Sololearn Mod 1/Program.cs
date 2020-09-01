@@ -96,6 +96,21 @@ namespace Sololearn_Mod_1
             Console.WriteLine(x);
             // Outputs 14
 
+            x *= 8; // equivalent to x = x * 8
+            x /= 5; // equivalent to x = x / 5
+            x %= 2; // equivalent to x = x % 2
+
+            x *= 8; // equivalent to x = x * 8
+            x /= 5; // equivalent to x = x / 5
+            x %= 2; // equivalent to x = x % 2
+
+            int x = 3;
+            int y = x++;
+            // x is 4, y is 3
+
+            --x; // prefix
+            x--; // postfix
+
 
     {
         class Program
