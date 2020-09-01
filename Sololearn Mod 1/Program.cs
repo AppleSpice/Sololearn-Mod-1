@@ -22,6 +22,27 @@ namespace Sololearn_Mod_1
             using System.Text;
             using System.Threading.Tasks;
 
+            static void Main(string[] args)
+            {
+                Console.WriteLine("Hello World!");
+            }
+
+            static void Main(string[] args)
+            {
+                int x = 89;
+                Console.WriteLine(x);
+            }
+            // Outputs 89
+
+            static void Main(string[] args)
+            {
+                int x = 10;
+                double y = 20;
+
+                Console.WriteLine("x = {0}; y = {1}", x, y);
+            }
+            // Output: x = 10; y = 20
+
 
 namespace SoloLearn
     {
