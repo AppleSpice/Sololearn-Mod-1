@@ -75,6 +75,28 @@ namespace Sololearn_Mod_1
            const double PI = 3.14;
            PI = 8; //error
 
+           int x = 10;
+           int y = 4;
+           Console.WriteLine(x-y);
+           //Outputs 6
+
+            int x = 10 / 4;
+            Console.WriteLine(x);
+            // Outputs 2
+
+            int x = 25 % 7;
+            Console.WriteLine(x);
+            // Outputs 4
+
+            int x = 4 + 3 * 2;
+            Console.WriteLine(x);
+            // Outputs 10
+
+            int x = (4 + 3) * 2;
+            Console.WriteLine(x);
+            // Outputs 14
+
+
     {
         class Program
         {
