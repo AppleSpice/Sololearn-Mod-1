@@ -15,6 +15,23 @@ namespace Sololearn_Mod_1
             char y = 'Z';
             bool isOnline = true;
             string firstName = "David";
+
+            using System;
+            using System.Collections.Generic;
+            using System.Linq;
+            using System.Text;
+            using System.Threading.Tasks;
+
+
+namespace SoloLearn
+    {
+        class Program
+        {
+            static void Main(string[] args)
+            {
+            }
         }
+    }
+}
     }
 }
