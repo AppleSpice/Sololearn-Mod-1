@@ -69,8 +69,9 @@ namespace Sololearn_Mod_1
            int x = 42;
            Console.WriteLine(x);
 
-
-
+           var num;
+           num = 42;
+            
 
     {
         class Program
