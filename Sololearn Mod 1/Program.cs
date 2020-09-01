@@ -59,7 +59,19 @@ namespace Sololearn_Mod_1
                 Console.WriteLine("You are {0} years old", age);
             }
 
-namespace SoloLearn
+            // Prints Hello
+            Console.WriteLine("Hello")
+            namespace SoloLearn
+
+           /* Some long 
+           comment text
+           */
+           int x = 42;
+           Console.WriteLine(x);
+
+
+
+
     {
         class Program
         {
