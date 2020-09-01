@@ -72,6 +72,8 @@ namespace Sololearn_Mod_1
            var num;
            num = 42;
             
+           const double PI = 3.14;
+           PI = 8; //error
 
     {
         class Program
